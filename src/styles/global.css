@@ -179,3 +179,9 @@ p {
     line-height: 1;
     margin-right: 0.1em;
 }
+
+p.lede {
+    color: var(--gray-light);
+    text-align: center;
+    margin-block: 0;
+}
