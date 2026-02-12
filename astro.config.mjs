@@ -11,6 +11,11 @@ export default defineConfig({
   site: "https://example.com",
   integrations: [mdx(), sitemap()],
   redirects: { "[...slug]": "/blog" },
+  markdown: {
+    shikiConfig: {
+      theme: "vitesse-dark",
+    },
+  },
   vite: {
     plugins: [tailwindcss()],
   },
