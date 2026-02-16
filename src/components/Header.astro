@@ -96,8 +96,29 @@ import HeaderLink from "./HeaderLink.astro";
         }
     }
     @media (max-width: 720px) {
-        .social-links {
-            display: none;
+        .internal-links a,
+        h2 {
+            font-size: 1em;
+        }
+        nav a.active::before {
+            width: 65px;
+            height: 40px;
+        }
+        h2 {
+            text-shadow:
+                -1px 1px 0 var(--bg),
+                1px -1px 0 var(--bg),
+                -1px -1px 0 var(--bg),
+                1px 1px 0 var(--bg),
+                0px 2px 0 var(--primary);
+        }
+        nav a.active {
+            text-shadow:
+                -1px 1px 0 var(--primary),
+                1px -1px 0 var(--primary),
+                -1px -1px 0 var(--primary),
+                1px 1px 0 var(--primary),
+                0px 2px 0 var(--bg);
         }
     }
 </style>
