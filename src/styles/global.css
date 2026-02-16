@@ -131,6 +131,7 @@ blockquote {
     background-color: var(--blockquote-bg);
 }
 a,
+li,
 p {
     font-family: "Tinos", serif;
     font-weight: 400;
