@@ -12,7 +12,7 @@ export default defineConfig({
   base: "lue-s-space",
   integrations: [mdx(), sitemap()],
   redirects: {
-    "/lue-s-space": "/lue-s-space/blog",
+    "/": "/lue-s-space/blog",
   },
   markdown: {
     shikiConfig: {
