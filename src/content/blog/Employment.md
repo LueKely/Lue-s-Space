@@ -2,6 +2,7 @@
 title: 'Employment :skull emoji:'
 description: "I can't wait to go to the humiliation factory! "
 pubDate: 'Feb 20 2026'
+heroImage: '../../assets/thumbnail-3.png'
 ---
 
 It's been hard finding employment for the past few month. One of my decisions that I regret the most was applying post graduation, we were too busy finalizing our manuscript for publishing. Running back-and-forth—checking through the corridors of the campus whether the faculty is present to check our finished manuscript and not to mention dealing with campus bureaucracy was if not the most time-wasting things anyone can do. It took us a month post-graduation to deal with our manuscript so we can get our accreditations.
