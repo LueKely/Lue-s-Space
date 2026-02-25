@@ -9,6 +9,11 @@ export async function GET(context) {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     site: context.site,
+    customData: `<image>
+      <url>${context.site}favicon.ico</url>
+      <title>${SITE_TITLE}</title>
+      <link>${context.site}</link>
+    </image>`,
     items: posts.map((post) => ({
       ...post.data,
       link: `/lue-s-space/blog/${post.id}/`,
