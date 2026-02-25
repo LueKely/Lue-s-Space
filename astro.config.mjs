@@ -8,8 +8,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://luekely.github.io",
-  base: "lue-s-space",
+  site: "https://luekely.github.io/lue-s-space",
+  base: "/lue-s-space",
   integrations: [mdx(), sitemap()],
   redirects: {
     "/": "/lue-s-space/blog",
