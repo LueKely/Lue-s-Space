@@ -13,7 +13,6 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
   redirects: {
     "/": "/lue-s-space/blog",
-    "/favicon.ico": "/lue-s-space/favicon.ico",
   },
   markdown: {
     shikiConfig: {

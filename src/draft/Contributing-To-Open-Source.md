@@ -1,5 +1,5 @@
 ---
-title: 'Contributing To Open Source'
-description: 'I think I bit more off than I can chew...'
+title: 'My First Time Contributing To Open Source'
+description: 'And other things that happened that were pretty crazy'
 pubDate: 'Feb 20 2026'
 ---
