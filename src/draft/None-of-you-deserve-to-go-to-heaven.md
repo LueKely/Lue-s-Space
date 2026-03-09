@@ -1,0 +1,7 @@
+Anytime i go outside and see what the fuck are people doing, I say to myself no fucking way you're going to heaven, any of you to be frank. These vile pigs eating slop in their phones, spoiling theirselves on averice and endulging on themselves. I FUCKING HATE ALL OF YOU FUCK YOU FUCK YOU. 
+
+You fuckers go to church with your phones up because your so deprived of attention, addicted of scrolling disgusting vile creatures no way in hell you guys are human. I'm not saying i'm better either but the fuck do i care this is my blog.  And these stupid sermons of which every church does is stupid. All of it is. Praying for things to be better, sending prayers online even though god doesn't have a wifi plan is stupid. Who the fuck gambles anyways and proceeds to church afterwards to absolve your sins. Fuck you man. 
+
+I don't care where i go when i die and hopefully it's not heaven. Either way i don't believe in god nor any of a higher being. All of this stupid relgious shit caused all the difference in the first place so fuck that.
+
+I am my own god. Saying that there's a better place than this reality is a cope that your stupid chud life sucks. TBH you're just full of wordly desires and thinking about it makes you a sad chud and that's pathetic i REALLY hope you don't go to heaven. 
